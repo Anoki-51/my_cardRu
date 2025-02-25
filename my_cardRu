@@ -1,0 +1,16 @@
+<script>start("/Users/anoki/Documents/ProjectRu/my_cardRu/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,288,"288 B",1740477484,"25.02.2025, 12:58:04");</script>
+<script>addRow("node_modules","node_modules",1,8416,"8.2 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("src","src",1,384,"384 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("bun.lockb","bun.lockb",0,198351,"194 kB",1740477511,"25.02.2025, 12:58:31");</script>
+<script>addRow("components.json","components.json",0,413,"413 B",1740477511,"25.02.2025, 12:58:31");</script>
+<script>addRow("eslint.config.js","eslint.config.js",0,789,"789 B",1740477511,"25.02.2025, 12:58:31");</script>
+<script>addRow("index.html","index.html",0,645,"645 B",1740477511,"25.02.2025, 12:58:31");</script>
+<script>addRow("package-lock.json","package-lock.json",0,254411,"248 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("package.json","package.json",0,2728,"2.7 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("tailwind.config.ts","tailwind.config.ts",0,2207,"2.2 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("tsconfig.app.json","tsconfig.app.json",0,652,"652 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,381,"381 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("tsconfig.node.json","tsconfig.node.json",0,481,"481 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("vite.config.ts","vite.config.ts",0,471,"471 B",1740477514,"25.02.2025, 12:58:34");</script>
