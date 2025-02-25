@@ -1,0 +1,12 @@
+<script>start("/Users/anoki/Documents/ProjectRu/my_cardRu/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("components","components",1,160,"160 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("hooks","hooks",1,128,"128 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("lib","lib",1,96,"96 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("pages","pages",1,128,"128 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("App.css","App.css",0,606,"606 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("App.tsx","App.tsx",0,871,"871 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("index.css","index.css",0,1396,"1.4 kB",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("main.tsx","main.tsx",0,158,"158 B",1740477514,"25.02.2025, 12:58:34");</script>
+<script>addRow("vite-env.d.ts","vite-env.d.ts",0,38,"38 B",1740477514,"25.02.2025, 12:58:34");</script>
